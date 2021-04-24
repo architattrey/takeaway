@@ -1,0 +1,27 @@
+[20-Jan-2018 19:11:08 Etc/GMT] PHP Parse error:  syntax error, unexpected 'define' (T_STRING), expecting function (T_FUNCTION) in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 12
+[20-Jan-2018 19:11:11 Etc/GMT] PHP Parse error:  syntax error, unexpected 'define' (T_STRING), expecting function (T_FUNCTION) in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 12
+[20-Jan-2018 19:18:54 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:18:59 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:19:47 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:19:54 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:20:00 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:20:51 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:20:53 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:20:55 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:20:56 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:20:58 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:20:59 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:21:01 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:21:02 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:21:04 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:21:04 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:21:05 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:21:06 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:21:07 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:21:30 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:21:32 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:21:35 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:22:12 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:22:36 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:23:28 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
+[20-Jan-2018 19:23:29 Etc/GMT] PHP Fatal error:  Undefined class constant 'NOT_VERIFIED' in /home/domaizq9/public_html/takeaway/application/modules/api/controllers/Login.php on line 287
